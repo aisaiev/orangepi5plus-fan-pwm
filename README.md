@@ -1,5 +1,7 @@
 # Orange Pi 5 Plus Fan PWM control
 
+![Wiring diagram](https://raw.githubusercontent.com/aisaiev/orangepi5plus-fan-pwm/main/wiring.png)
+
 Tested on [ubuntu-rockchip](https://github.com/Joshua-Riek/ubuntu-rockchip)
 
 1. Install wiringOP-Python
